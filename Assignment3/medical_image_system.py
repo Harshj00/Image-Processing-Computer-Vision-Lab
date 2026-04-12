@@ -1,10 +1,7 @@
 # ============================================================
-# Name         : Harsh
+# Name         : Harsh Kumar Jha
 # Course       : Image Processing & Computer Vision
-# Unit         : Unit 3 — Compression & Segmentation
-# Assignment   : Medical Image Compression & Segmentation System
-# Date         : 2026
-# ============================================================
+# Assignment3   : Medical Image Compression & Segmentation System
 
 """
 Medical Image Compression & Segmentation System
