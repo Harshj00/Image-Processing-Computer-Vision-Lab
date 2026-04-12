@@ -1,10 +1,8 @@
-# ============================================================
-# Name         : Harsh
+
+# Name         : Harsh Kumar Jha
 # Course       : Image Processing & Computer Vision
-# Unit         : Unit 1 — Image Sensing, Acquisition & Sampling
 # Assignment   : Smart Document Scanner & Quality Analysis System
-# Date         : 2026
-# ============================================================
+
 
 """
 Smart Document Scanner & Quality Analysis System
