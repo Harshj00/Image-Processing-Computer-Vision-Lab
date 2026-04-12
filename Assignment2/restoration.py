@@ -1,10 +1,8 @@
 # ============================================================
-# Name         : Harsh
+# Name         : Harsh Kumar Jha
 # Course       : Image Processing & Computer Vision
-# Unit         : Unit 2 — Image Restoration & Filtering
-# Assignment   : Image Restoration for Surveillance Camera Systems
-# Date         : 2026
-# ============================================================
+# Assignment2   : Image Restoration for Surveillance Camera Systems
+
 
 """
 Image Restoration for Surveillance Camera Systems
